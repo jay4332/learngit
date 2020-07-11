@@ -3,11 +3,11 @@ git config --global user.name "Jay Singh"
 
 Learn git Part -1 :
 
-1) git init
-2) git add [filename] || -A
-3) git status
-4) git commit -m "msg"
-5) git remote add origin repoName
-6) git push origin master
-7) git clone repoName
-8) git pull origin origin master
+1) git init  = make git file localy
+2) git add [filename] || -A   = add files to git file
+3) git status   = checking status whether file is added or not in git.
+4) git commit -m "msg"  = make snapshot for new changes
+5) git remote add origin repoName  = add to github repository
+6) git push origin master = update to github repository
+7) git clone repoName  = clone any github to local
+8) git pull origin origin master  = update any github to local
